@@ -1,0 +1,11 @@
+h1 {
+	color: blue;
+}
+
+.titre-italique {
+	font-style: italic;
+}
+
+.titre-grande-taille {
+	font-size: 4em;
+}
